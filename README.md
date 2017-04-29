@@ -1,3 +1,6 @@
+[![security status](https://qa.meterian.io/badge/gh/johnsblatter/vert.x/security)](https://qa.meterian.io/report/gh/johnsblatter/vert.x) 
+[![defect status](https://qa.meterian.io/badge/gh/johnsblatter/vert.x/defect)](https://qa.meterian.io/report/gh/johnsblatter/vert.x) 
+
 ## Vert.x Core
 
 This is the repository for Vert.x core.
